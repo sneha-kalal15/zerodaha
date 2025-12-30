@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+header img{
+    width: auto;
+    height: 30px;
+}
+#btn{
+    background-color: blue;
+}
+
+button{
+    color: white;
+}
+img{
+    width: 500px;
+    justify-content: right;
+}
+h1{
+    font-size: 2em;
+}
